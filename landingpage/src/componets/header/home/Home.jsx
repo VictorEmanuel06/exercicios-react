@@ -12,9 +12,9 @@ const Home = () => {
                 </h1>
 
                 <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Numquam omnis praesentium recusandae temporibus nemo. Repellendus nobis
-                    quasi earum consequatur excepturi reiciendis quae? Debitis iure voluptate 
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br />
+                    Numquam omnis praesentium recusandae temporibus nemo. Repellendus nobis<br />
+                    quasi earum consequatur excepturi reiciendis quae? Debitis iure voluptate<br />
                     distinctio! Earum neque numquam quisquam?
                 </p>
 

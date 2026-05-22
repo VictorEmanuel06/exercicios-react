@@ -17,17 +17,17 @@
   color: #fff;
 }
 
-.hero-contant{
+.hero-content{
   position: absolute;
   left: 3%;
   top: 30%;
 }
 
-.hero-contant h1 {
+.hero-content h1 {
   font-size: 4rem;
 }
 
-.hero-contant p {
+.hero-content p {
   font-weight: 500;
   margin-top: 1rem;
   margin-bottom: 1rem;

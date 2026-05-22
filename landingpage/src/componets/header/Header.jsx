@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../../assets/logo.jpg"
+import logo from "../../assets/logo.webp"
 import { FaYoutube, FaInstagram, FaLinkedin, FaFacebook } from "react-icons/fa";
 import "./Header.css"
 
@@ -32,7 +32,7 @@ const Header = () => {
             <a href="#" className="facebook">
             <FaFacebook />
             </a>
-            <a href="#" className="likendin">
+            <a href="#" className="linkedin">
             <FaLinkedin />
             </a>
         </div>
